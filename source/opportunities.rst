@@ -115,3 +115,28 @@ the biweekly Loyola CS seminar (COMP 399) and the concurrent research
 methods course (COMP 388), students will have a chance to both observe
 interesting work and learn some of the tools used in performing those
 projects.
+
+LUROP (Undergraduate Research)
+---------------------------------
+
+
+`LUROP <http://luc.edu/lurop/>`__ began as the umbrella under which several
+undergraduate research programs at Loyola were promoted, supported, and
+administered.  There are currently thirteen different LUROP fellowship
+programs that offer undergraduates an opportunity to conduct research under a
+mentor, who may be a faculty member, a graduate student, or a community
+partner, depending on the program.  These fellowships also offer excellent
+opportunities for faculty members and others to mentor young researchers,
+which is the heart of the LUROP experience.  Many of these fellowships predate
+LUROP, and twelve are directly administered by their own centers, departments,
+or directors. Together, they are centrally coordinated by the Center for
+Experiential Learning in the Sullivan Center at the Lake Shore Campus, which
+also directly manages the Provost Fellowship.  For more information, and
+directions for applying, see the page for the LUROP Fellowships.
+
+We *encourage* our students to apply for the LUROP programs. We are routinely
+contacted to ensure that our students know about this program and apply. Our
+students often do well when competing for these awards, and this is a great
+way to get support for working with your CS department profesors.
+
+
