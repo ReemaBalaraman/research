@@ -1,5 +1,5 @@
-Faculty research interests
-==========================
+Faculty Research Interests
+============================
 
 Please refer to the `full-time faculty page <http://www.luc.edu/cs/people/ftfaculty/>`__ for contact
 information or these `faculty research bios (from Spring 2015 <https://drive.google.com/file/d/0B2MBEuo7xdkdMnU4WlhHa18wdHc/view?usp=sharing>`__)
@@ -16,7 +16,7 @@ of research and project interest.
    "Ronald Greenberg", "STEM outreach, algorithms, parallel computing", "`rig.cs.luc.edu/~rig <http://rig.cs.luc.edu/~rig>`__", ""
    "Andrew N. Harrington", "Interactive learning, algorithms, programming competitions and engagement", "`anh.cs.luc.edu <http://anh.cs.luc.edu>`__", ""
    "Nicholas Hayward", "digital humanities, open source development", "`Nicholas Hayward sketch <http://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml>`__", ""
-   "Konstantin Läufer", "programming languages, software architecture, distributed systems, mobile/pervasive computing", "`laufer.cs.luc.edu <http://laufer.cs.luc.edu/>`__", ""
+   "Konstantin Läufer", "programming languages, software architecture, distributed systems, mobile/pervasive computing", "`laufer.cs.luc.edu <http://laufer.cs.luc.edu/>`__", "`GitHub <http://github.com/klaeufer>`__"
    "Channah Naiman", "data mining, information technology", "`Channa Naiman sketch <http://www.luc.edu/cs/people/ftfaculty/naimanchannah.shtml>`__", ""
    "Catherine Putonti", "bioinformatics, computational biology", "`putonti-lab.com <http://www.putonti-lab.com/>`__", ""
    "Chandra Sekharan", "network optimization, parallel algorithms, databases, performance engineering", "`csekharan.com <http://csekharan.com/>`__", ""
