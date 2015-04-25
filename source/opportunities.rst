@@ -90,17 +90,13 @@ The following courses (with their course handbook links) are all
 Engaged Learning courses that encourage capstone projects as an
 outcome:
 
-- `*COMP 398/490: Independent Study* <http://courses.cs.luc.edu/html/comp398.html>`__
-Independent Study. This is standard for these courses.
+- `*COMP 398/490: Independent Study* <http://courses.cs.luc.edu/html/comp398.html>`__ Independent Study. This is standard for these courses.
 
-- `*COMP 312/412: Open Souce Practicum* <http://courses.cs.luc.edu/html/comp312.html>`__
-Open Source Software - available Fall and Spring.
+- `*COMP 312/412: Open Souce Practicum* <http://courses.cs.luc.edu/html/comp312.html>`__ Open Source Software - available Fall and Spring.
 
-- `*COMP 390: Brodeaning Participation in STEM* <http://courses.cs.luc.edu/html/comp390.html>`__
-Broadening participation in STEM - available in the Fall.
+- `*COMP 390: Brodeaning Participation in STEM* <http://courses.cs.luc.edu/html/comp390.html>`__ Broadening participation in STEM - available in the Fall.
 
-- `*COMP 391/499* <http://courses.cs.luc.edu/html/comp391.html>`__:
-Internship - available year round
+- `*COMP 391/499* <http://courses.cs.luc.edu/html/comp391.html>`__: Internship - available year round
 
 - UNIV 102-X: Intro to CS research for freshmen - FYRE program (Spring)
 
