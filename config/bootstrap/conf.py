@@ -229,7 +229,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'LoyolaComputerScienceResearchHandbook.tex', u'LUC CS MS Programs Documentation',
+  ('index', 'LoyolaComputerScienceResearchHandbook.tex', u'Loyola Computer Science Research Handbook',
    u'CS Department', 'manual'),
 ]
 
@@ -259,7 +259,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'loyolauniversitychicagocomputerscience-researchuatehandbook', u'LUC CS MS Programs Documentation',
+    ('index', 'loyolauniversitychicagocomputerscience-researchuatehandbook', u'Loyola Computer Science Research Handbook',
      [u'CS Department'], 1)
 ]
 
@@ -273,7 +273,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'LoyolaComputerScienceResearchHandbook', u'LUC CS MS Programs Documentation',
+  ('index', 'LoyolaComputerScienceResearchHandbook', u'Loyola Computer Science Research Handbook',
    u'CS Department', 'LoyolaComputerScienceResearchHandbook', 'One line description of project.',
    'Miscellaneous'),
 ]
