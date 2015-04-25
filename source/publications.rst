@@ -1,45 +1,47 @@
 
 Publications
 ============
+ 
+Mark Albert
+- `Google Scholar, <https://scholar.google.com/citations?user=LPzMx1IAAAAJ&hl=en&oi=ao>`__ 
+- `Lab <http://pac-lab.org/publications/>`__
 
--  **Mark V. Albert [**\ `***google
-       scholar*** <https://scholar.google.com/citations?user=LPzMx1IAAAAJ&hl=en&oi=ao>`__\ **]
-       [**\ `***lab*** <http://pac-lab.org/publications/>`__\ **]**
+Peter Dordal
+- TBD
 
--  **Peter Dordal **
+Stephen Doty
+- `Google Scholar <https://scholar.google.com/citations?user=t-PZ_dEAAAAJ&hl=en>`__
 
--  **Stephen Doty [**\ `***google
-       scholar*** <https://scholar.google.com/citations?user=t-PZ_dEAAAAJ&hl=en>`__\ **]**
+Ronald Greenberg
+- `Google Scholar <https://scholar.google.com/citations?user=8KbOOO4AAAAJ&hl=en>`__
 
--  **Ronald Greenberg [**\ `***google
-       scholar*** <https://scholar.google.com/citations?user=8KbOOO4AAAAJ&hl=en>`__\ **]**
+Andrew Harrington
+- `Google Scholar <https://scholar.google.com/citations?user=GPnrCzYAAAAJ&hl=en>`__
 
--  **Andrew Harrington [**\ `***google
-       scholar*** <https://scholar.google.com/citations?user=GPnrCzYAAAAJ&hl=en>`__\ **]**
+Nicholas Hayward
+- TBD
 
--  **Nicholas Hayward**
+William Honig
+- `Google Scholar <https://scholar.google.com/citations?user=QIIX4SoAAAAJ>`__
 
--  **William Honig [**\ `***google
-       scholar*** <https://scholar.google.com/citations?user=QIIX4SoAAAAJ>`__\ **]**
+Konstantin Laufer
+- `Google Scholar <https://scholar.google.com/citations?user=Rs0f_nMAAAAJ>`__
 
--  **Konstantin Laufer [**\ `***google
-       scholar*** <https://scholar.google.com/citations?user=Rs0f_nMAAAAJ>`__\ **]**
+Channah Naiman
 
--  **Channah Naiman **
+Catherine Putonti
+- `Google Scholar <https://scholar.google.com/citations?user=NkJJfysAAAAJ&hl=en>`__
+- `PubMed <http://www.ncbi.nlm.nih.gov/pubmed?term=Putonti%20%5BAuthor%5D>`__
+- `Lab <http://www.putonti-lab.com/pubs>`__
 
--  **Catherine Putonti [**\ `***google
-       scholar*** <https://scholar.google.com/citations?user=NkJJfysAAAAJ&hl=en>`__\ **]
-       [**\ `***PubMed*** <http://www.ncbi.nlm.nih.gov/pubmed?term=Putonti%20%5BAuthor%5D>`__\ **]
-       [**\ `***lab*** <http://www.putonti-lab.com/pubs>`__\ **]**
+Chandra Sekaran
+- `Google Scholar <https://scholar.google.com/citations?user=nx6rSEwAAAAJ&hl=en>`__
 
--  **Chandra Sekaran [**\ `***google
-       scholar*** <https://scholar.google.com/citations?user=nx6rSEwAAAAJ&hl=en>`__\ **]**
+George K. Thiruvathukal
+- `Google Scholar <https://scholar.google.com/citations?user=Ls7yS0IAAAAJ>`__
 
--  **George Thiruvathukal [**\ `***google
-       scholar*** <https://scholar.google.com/citations?user=Ls7yS0IAAAAJ>`__\ **]**
+Robert Yacobellis
+- `Google Scholar  <https://scholar.google.com/citations?user=5oL6e14AAAAJ&hl=en>`__
 
--  **Robert Yacobellis [**\ `***google
-       scholar*** <https://scholar.google.com/citations?user=5oL6e14AAAAJ&hl=en>`__\ **]**
 
-Additional publications, including tech reports, are available on `*LUC
-eCommons* <http://ecommons.luc.edu/cs_facpubs/>`__
+Additional publications, including tech reports, are available on `*LUC eCommons* <http://ecommons.luc.edu/cs_facpubs/>`__
