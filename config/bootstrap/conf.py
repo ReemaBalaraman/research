@@ -42,7 +42,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Research Handbook'
-copyright = u'2014, CS Department'
+copyright = u'2004-Present, Loyola University Chicago, Department of Computer Science'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
