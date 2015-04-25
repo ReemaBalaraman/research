@@ -6,7 +6,7 @@ information or these `faculty research bios (from Spring 2015 <https://drive.goo
 for further information, this list below is a much abbreviated summary
 of research and project interest.
 
-.. csv-table:: Frozen Delights!
+.. csv-table:: Faculty Research Interests and Links
    :header: "Faculty Member", "Keywords", "URL"
    :widths: 15, 25, 30
 
