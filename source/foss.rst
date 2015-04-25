@@ -5,11 +5,11 @@ The department is active in free/open source software, both in terms of using an
 
 We maintain several organizations within GitHub:
 
-- Department Resources and Handbooks, `LoyolaChicagoCS <https://github.com/orgs/LoyolaChicagoBooks/dashboard>`__
+- Department Resources and Handbooks, `LoyolaChicagoCS <https://github.com/orgs/LoyolaChicagoBooks>`__
 
-- Books and Lecture Notes, `LoyolaChicagoBooks <https://github.com/orgs/LoyolaChicagoBooks/dashboard>`__
+- Books and Lecture Notes, `LoyolaChicagoBooks <https://github.com/orgs/LoyolaChicagoBooks>`__
 
-- Code Examples and Research Prototypes, `LoyolaChicagoCode <https://github.com/orgs/LoyolaChicagoBooks/dashboard>`__
+- Code Examples and Research Prototypes, `LoyolaChicagoCode <https://github.com/orgs/LoyolaChicagoBooks>`__
 
 For individual faculty activity on GitHub, see the faculty interests pages.
 
