@@ -1,3 +1,6 @@
+Assistantships
+==================
+
 .. index:: research assistantships
    merit awards
 
