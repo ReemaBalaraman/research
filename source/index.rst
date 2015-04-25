@@ -22,5 +22,6 @@ research we do in the department.
    assistantships
    downloading
    acknowledgments
+   map
 
 :ref:`genindex`
