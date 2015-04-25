@@ -2,6 +2,16 @@
 Publications
 ============
  
+Digital Archives 
+----------------------
+
+Most recent faculty publications can be retrieved from the 
+`Loyola University Chicago eCommons <http://ecommons.luc.edu/cs_facpubs/>`__.
+
+Faculty Collections
+--------------------
+
+
 Mark Albert
 - `Google Scholar, <https://scholar.google.com/citations?user=LPzMx1IAAAAJ&hl=en&oi=ao>`__ 
 - `Lab <http://pac-lab.org/publications/>`__
@@ -44,4 +54,3 @@ Robert Yacobellis
 - `Google Scholar  <https://scholar.google.com/citations?user=5oL6e14AAAAJ&hl=en>`__
 
 
-Additional publications, including tech reports, are available on `*LUC eCommons* <http://ecommons.luc.edu/cs_facpubs/>`__
