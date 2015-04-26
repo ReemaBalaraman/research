@@ -7,22 +7,15 @@ typical undergraduate curriculum.
 
 -  **Develop** a project beyond what you started as a course project
 
--  **Impact** in the the scientific and technical community in small,
-       focussed pursuits or through expansive reviews of existing
-       approaches
+-  **Impact** in the the scientific and technical community in small, focused pursuits or through expansive reviews of existing approaches
 
--  **More in-depth advising** through a closer, mutually beneficial
-       relationship with faculty
+-  **More in-depth advising** through a closer, mutually beneficial relationship with faculty
 
--  **Building practical skills** through more substantial, hands-on
-       training
+-  **Building practical skills** through more substantial, hands-on training
 
--  **Demonstrate** your abilities to future employers or programs with a
-       significant, completed project representing your skills and
-       efforts
+-  **Demonstrate** your abilities to future employers or programs with a significant, completed project representing your skills and efforts
 
--  **Engage in collaborative efforts** necessary to forward goals that
-       can only be done with long-term sustained group efforts.
+-  **Engage in collaborative efforts** necessary to forward goals that can only be done with long-term sustained group efforts
 
 Computer science is a unique field where a simple idea can become a
 start-up reality or a popular online open source project through
