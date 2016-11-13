@@ -11,5 +11,5 @@ Active research groups
 
 -  `*Center for Textual Studies and Digital Humanities* - <http://luc.edu/ctsdh>`__
 
-Please visit the `*faculty research interests* <http://nolink>`__ page
+Please visit the `*faculty research interests* <http://research.cs.luc.edu/html/facultyresearch.html>`__ page
 for individual faculty
