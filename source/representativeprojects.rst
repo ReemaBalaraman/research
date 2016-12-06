@@ -8,9 +8,9 @@ pursued by students, you are encouraged to reach through these project
 descriptions below. Note, we include both early and late-stage students
 in these presentations.
 
--  `*Spring 2014 projects* <https://drive.google.com/file/d/0B2MBEuo7xdkdakRUZ29XT3dsdDQ/view?usp=sharing>`__
+-  `Spring 2014 projects <https://drive.google.com/file/d/0B2MBEuo7xdkdakRUZ29XT3dsdDQ/view?usp=sharing>`__
 
--  `*Fall 2014 projects* <https://drive.google.com/file/d/0B2MBEuo7xdkdRGpnMVh1ME1jX28/view?usp=sharing>`__
+-  `Fall 2014 projects <https://drive.google.com/file/d/0B2MBEuo7xdkdRGpnMVh1ME1jX28/view?usp=sharing>`__
 
 -  Spring 2015 projects
 
