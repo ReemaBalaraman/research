@@ -21,4 +21,8 @@ of research and project interest.
    "Catherine Putonti", "bioinformatics, computational biology", "`putonti-lab.com <http://www.putonti-lab.com/>`__", ""
    "Chandra Sekharan", "network optimization, parallel algorithms, databases, performance engineering", "`csekharan.com <http://csekharan.com/>`__", ""
    "George K. Thiruvathukal", "high performance computing, operating systems, distributed systems, storage and I/O, programming languages, scientific computing, digital humanities, music", "`thiruvathukal.com <http://thiruvathukal.com>`__", "`GitHub <http://github.com/gkthiruvathukal>`__"
-   "Robert Yacobellis", "software engineering, mobile computing, data-driven software development and design", "`Bob Yacobellis sketch <http://www.luc.edu/cs/people/ftfaculty/yacobellisrobert.shtml>`__", ""
+   "Robert Yacobellis", "software engineering, mobile computing, data-driven software development and design", "`Bob Yacobellis sketch <http://www.luc.edu/cs/people/ftfaculty/yacobellisrobert.shtml>`__", "`GitHub <https://github.com/ares09x>`__"
+   "Dmitriy Dligach", "natural language processing, machine learning, data mining", "`Dmitriy Dligach <http://www.luc.edu/cs/people/ftfaculty/dligachdmitriy.shtml>`__", ""
+   "Heather E. Wheeler", "cancer pharmacogenomics, statistical genetics", "`Heather E. Wheeler <http://www.luc.edu/cs/people/ftfaculty/wheelerheather.shtml>`__", ""   
+   "William L. Honig", "software and systems solutions for Wearable Area Networks", "`William L. Honig <http://www.luc.edu/cs/people/ftfaculty/honigwilliaml.shtml>`__", ""
+
